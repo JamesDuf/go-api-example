@@ -1,4 +1,4 @@
-module github.com/JamesDuf/go-api-tutorial
+module github.com/JamesDuf/go-api-example
 
 go 1.24.5
 
